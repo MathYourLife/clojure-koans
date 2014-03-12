@@ -16,7 +16,7 @@
       (recur (dec n) (not acc)))))
 
 (defn recursive-reverse [coll]
-  (reduce conj '() coll)
+  (reduce conj '() coll)  ;; TODO: revisit this
 )
 
 (defn factorial [n]
