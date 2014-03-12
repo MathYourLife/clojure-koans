@@ -1,6 +1,3 @@
-;;debugging parts of expressions
-(defmacro dbg[x] `(let [x# ~x] (println "dbg:" '~x "=" x#) x#))
-
 (meditations
   "The map function relates a sequence to another"
   (= [4 8 12]
