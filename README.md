@@ -1,5 +1,10 @@
 # Clojure Koans
 
+***
+Spoiler Alert:
+This repo is a fork of the [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) repo and contains my solutions to all the problems.
+***
+
 The Clojure Koans are a fun and easy way to get started with Clojure - no
 experience assumed or required.  Just follow the instructions below to start
 making tests pass!
